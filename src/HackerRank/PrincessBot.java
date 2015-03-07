@@ -1,8 +1,8 @@
 package HackerRank;
 
-import java.io.*;
 import java.util.Scanner;
 import java.util.ArrayList;
+
 
 /**
  * Created by User on 01/02/2015.
